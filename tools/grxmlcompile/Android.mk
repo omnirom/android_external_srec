@@ -82,6 +82,4 @@ LOCAL_MODULE:= grxmlcompile
 
 LOCAL_32_BIT_ONLY := true
 
-include external/libcxx/libcxx.mk
-
 include $(BUILD_HOST_EXECUTABLE)
